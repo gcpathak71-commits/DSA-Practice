@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0231-power-of-two) |
 ## Recursion
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
