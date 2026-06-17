@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0412-fizz-buzz) |
 ## String
@@ -31,4 +32,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
