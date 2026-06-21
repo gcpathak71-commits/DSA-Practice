@@ -10,8 +10,8 @@ class Solution {
                     row.add(1);
                 }
                 else {
-                    int val = triangle.get(i - 1).get(j - 1) + triangle.get(i - 1).get(j);
-                    row.add(val);
+                    int num = triangle.get(i - 1).get(j - 1) + triangle.get(i - 1).get(j);
+                    row.add(num);
                 }
             }
             triangle.add(row);
