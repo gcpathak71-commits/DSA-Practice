@@ -6,17 +6,19 @@ class Solution {
             char ch = s.charAt(i);
             
             if (ch == '(' || ch == '[' || ch == '{') {
-                st.push(ch + ""); 
+                st.push(ch + "");
             } 
             else {
                 if (st.isEmpty()) return false;
                 
                 String top = st.pop();
-                if (ch == ')' && !top.equals("(")) return false;
-                if (ch == ']' && !top.equals("[")) return false;
-                if (ch == '}' && !top.equals("{")) return false;
+                if ((ch == ')' && !top.equals("(")) || 
+                    (ch == ']' && !top.equals("[")) || 
+                    (ch == '}' && !top.equals("{"))) {
+                    return false;
+                }
             }
-        } 
+        }
         return st.isEmpty();
     }
 }
