@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/gcpathak71-commits/DSA-Placement-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
